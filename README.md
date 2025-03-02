@@ -10,3 +10,5 @@
 3EZYY/3EZYY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![AUR Last Modified](https://img.shields.io/aur/last-modified/:packageName)
