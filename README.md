@@ -1,23 +1,82 @@
-## 📜 Programming Language & Technology Used
+# 👋 Hi there, I'm RAFIF NABIHA !
 
-- ### Favorites Programming Language
-![C](https://img.shields.io/badge/C-2e3a96?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-0a85cf?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-black?style=for-the-badge&logo=x86-64&logoColor=green)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+</div>
 
-- ### Favorites Technology Used
-![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white)
-![NVCC](https://img.shields.io/badge/NVCC-6eeb34?style=for-the-badge&logo=nvidia&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Makefile](https://img.shields.io/badge/Makefile-555555?style=for-the-badge&logo=gnu-make&logoColor=white)
+---
 
-![OpenGL](https://img.shields.io/badge/opengl-52829f?style=for-the-badge&logo=opengl&logoColor=white)
-![Vulkan](https://img.shields.io/badge/vulkan-a7152b?style=for-the-badge&logo=vulkan&logoColor=white)
-![SPIR-V](https://img.shields.io/badge/SPIR--V-0049a4?style=for-the-badge&logo=xorg&logoColor=white)
+## 📋 Programming Language & Technology Used
 
-![FreeBSD](https://img.shields.io/badge/FreeBSD-%234D4D4D?style=for-the-badge&logo=freebsd&logoColor=red&color=white)
-![Windows](https://img.shields.io/badge/Windows-%66af3d?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMwAAADACAMAAAB/Pny7AAAAM1BMVEUAeNT///8AcdJon98AddNEi9nO3vO80u8ygtcAbNFknd48hNh8rOPa5/a40O4netVzpeGI/GSPAAABK0lEQVR4nO3XS2oDURAEwSfJHlt/3f+03nn2goZERFygyF33WrOOp8O/03F4bJqYKjFVYqrEVImpElMlpkpMlZgqMVViqsRUiakSUyWmSkyVmCoxVWKqxFSJqRJTJaZKTJWYKjFVYqrEVImpElMlpkpMlZgqMVViqsRUiakSUyWmSkyVmCoxVWKqxLzta9b5ssdczsNj63vW9bbH3K7DY2sbdt9j7tNb6/BBxFSJqRJTJaZq/cx6bPvW9hgeW7+znq895vUcHvusq3mY56xKTJWYKjFVYqrEVImpElMlpkpMlZgqMVViqsRUiakSUyWmSkyVmCoxVWKqxFSJqRJTJaZKTJWYKjFVYqrEVImpElMlpkpMlZgqMVViqsRUiakSUyWmSkyVmCox7/oDYagvfxRstWkAAAAASUVORK5CYII=&logoColor=blue&color=white)
+### 💻 Favorite Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
 
-- ### Other Technologies
-![dotnet](https://img.shields.io/badge/.NET-%234D4D4D?style=for-the-badge&logo=dotnet&logoColor=white&color=5027d5)
+### 🛠️ Favorite Technologies Used
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+</p>
+
+### 🖥️ Operating Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🌟 About Me
+
+- 🔭 I'm currently working on web development projects
+- 🌱 I'm currently learning advanced backend technologies
+- 👯 I'm looking to collaborate on open source projects
+- 💬 Ask me about Java, Python, Laravel, and web development
+- 📫 How to reach me: [your.email@example.com]
+- ⚡ Fun fact: I love solving complex problems with elegant code
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  <i>⭐️ From [Your Name](https://github.com/YOUR_GITHUB_USERNAME)</i>
+</div>
