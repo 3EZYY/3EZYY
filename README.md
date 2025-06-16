@@ -32,13 +32,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
 
 ## 🌟 About Me
 
